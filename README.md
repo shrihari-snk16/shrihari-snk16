@@ -42,7 +42,10 @@ Programming Languages
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
 </p>
 
-Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>Engineering & Development Tools
+
 
 **Engineering & Development Tools**
 
