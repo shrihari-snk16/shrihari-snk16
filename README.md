@@ -1,38 +1,40 @@
-Shrihari Kulkarni | Electronics & Embedded Systems Engineer ⚡
+Shrihari Kulkarni | Aspiring VLSI & Chip Design Engineer ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:080B16,50:102A43,100:0077B6&text=SHRIHARI%20KULKARNI&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=VLSI%20%7C%20EMBEDDED%20SYSTEMS%20%7C%20ELECTRONICS&descSize=17&descAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:080B16,50:142B40,100:24516B&text=SHRIHARI%20KULKARNI&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=VLSI%20DESIGN%20%7C%20IC%20DESIGN%20%7C%20SEMICONDUCTOR%20TECHNOLOGY&descSize=14&descAlignY=65" width="100%" />
 </p><p align="center">
-  <a href="https://github.com/shrihari-snk16">
-    <img src="https://img.shields.io/badge/GitHub-shrihari--snk16-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Domain-VLSI%20%26%20Embedded-0077B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Engineering-EnTC-00A6A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-VLSI%20%26%20CHIP%20DESIGN-173B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DOMAIN-SEMICONDUCTORS-24516B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BACKGROUND-ELECTRONICS-334155?style=for-the-badge" />
 </p>---
 
 👨‍💻 About Me
 
-Hello! I'm Shrihari Kulkarni, an Electronics and Telecommunication Engineering student at DYPCOE, Akurdi, passionate about semiconductor technology, embedded systems and software engineering.
+Hello! I'm Shrihari Kulkarni, an Electronics and Telecommunication Engineering student at DYPCOE, Akurdi, passionate about VLSI design, semiconductor technology and integrated circuit engineering.
 
-I enjoy exploring the intersection of hardware and software, understanding how electronic systems work and developing practical engineering solutions.
+My primary interest lies in understanding how semiconductor devices, digital logic and integrated circuits come together to create modern computing systems.
+
+I enjoy exploring the intersection of electronics, hardware architecture and software development.
 
 - 🎓 Electronics & Telecommunication Engineering
-- 🔬 Interested in VLSI Design and Semiconductor Technology
-- ⚡ Exploring Embedded Systems and Microcontrollers
-- 💻 Learning Data Structures & Algorithms in Java
-- 🌐 Exploring Full-Stack Development
-- 🚀 Interested in building innovative hardware-software solutions
+- 🔬 Aspiring VLSI and Chip Design Engineer
+- ⚡ Interested in Semiconductor Devices and Integrated Circuits
+- 💻 Learning Digital Electronics and Hardware Fundamentals
+- 🧠 Strengthening C++, Java and Problem-Solving Skills
+- 🔌 Exploring Embedded Systems and Microcontroller Architecture
+- 🚀 Interested in semiconductor innovation and next-generation chip technologies
 
-🔬 Areas of Interest
+🔬 Core Areas of Interest
 
-Domain| Interests
-VLSI Design| Digital Electronics, Semiconductor Technology, Chip Design
+Domain| Areas of Interest
+VLSI Design| Digital IC Design, CMOS Technology, Chip Architecture
+Digital Design| Boolean Algebra, Combinational & Sequential Logic, FSM
+Semiconductor Technology| Semiconductor Devices, PN Junctions, MOSFET Fundamentals
+Integrated Circuits| Analog ICs, Digital ICs, ADCs and DACs
+RTL & Hardware Design| Verilog, SystemVerilog, RTL Design (future learning goals)
 Embedded Systems| Microcontrollers, Sensors, Hardware Interfacing
-Electronics| Circuit Design, Digital Systems, Instrumentation
-Programming| C++, Java, Python
-Software Engineering| Data Structures, Web Development, Problem Solving
 
-🛠️ Technical Arsenal
+🛠️ Technical Skills
 
 Programming Languages
 
@@ -50,14 +52,17 @@ Programming Languages
 
 1. Arduino-Based TDS Water Quality Monitoring System
 
-- Microcontroller-based water quality monitoring.
-- TDS sensor integration.
-- DS18B20 temperature sensing.
-- LCD-based real-time parameter display.
+An embedded electronics project for monitoring water quality using sensor integration and a microcontroller.
+
+- Arduino Uno R3 microcontroller
+- TDS sensor for water quality measurement
+- DS18B20 temperature sensor
+- 16×2 LCD for real-time parameter display
+- Hardware interfacing and sensor integration
 
 2. Smart Super Market
 
-A web-based smart supermarket project.
+A web-based smart supermarket application.
 
 🔗 "View Repository" (https://github.com/shrihari-snk16/Smart-Super-Market)
 
@@ -65,7 +70,7 @@ A web-based smart supermarket project.
 
 An AI-based career guidance and recommendation system.
 
-🔗 "Explore GitHub" (https://github.com/shrihari-snk16/CareerCompass-AI)
+🔗 "View Repository" (https://github.com/shrihari-snk16/CareerCompass-AI)
 
 4. The Golden Blueprint
 
@@ -75,17 +80,30 @@ An exploration of ancient Indian gold production and its engineering relevance.
 
 5. SWARNA-VIGYAN
 
-A collaborative project exploring science and technology.
+A collaborative science and technology project.
 
-🔗 "Explore Repository" (https://github.com/shrihari-snk16/SWARNA-VIGYAN)
+🔗 "View Repository" (https://github.com/shrihari-snk16/SWARNA-VIGYAN)
 
-📚 Currently Learning
+📚 Currently Learning & Exploring
 
-- Data Structures & Algorithms
-- Digital Electronics and Semiconductor Fundamentals
-- Embedded Systems and Microcontroller Programming
-- VLSI Design Fundamentals
-- Full-Stack Web Development
+- Digital Electronics and Logic Design
+- Electronic Devices and Circuits
+- Semiconductor Physics and MOSFET Fundamentals
+- Combinational and Sequential Circuit Design
+- Integrated Circuit Fundamentals
+- Embedded Systems and Microcontrollers
+- Data Structures and Algorithms
+
+🎯 Future Learning Roadmap
+
+- Verilog HDL and RTL Design
+- SystemVerilog Fundamentals
+- FPGA-Based Digital Design
+- CMOS Digital Circuit Design
+- Static Timing Analysis (STA)
+- Physical Design Fundamentals
+- ASIC Design Flow
+- VLSI Verification
 
 📊 GitHub Analytics
 
@@ -100,12 +118,15 @@ A collaborative project exploring science and technology.
   <a href="https://github.com/shrihari-snk16">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/shrihari-kulkarni-71880434a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>---
 
 <p align="center">
-  <i>"Engineering is the art of transforming ideas into intelligent systems."</i>
+  <i>"From semiconductor physics to silicon intelligence — engineering the future, one transistor at a time."</i>
 </p><p align="center">
-  ⚡ Designing. Building. Learning. Innovating.
+  **LEARN • DESIGN • VERIFY • INNOVATE**
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=0:0077B6,100:080B16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=55&section=footer&color=0:24516B,100:080B16" width="100%" />
 </p>
