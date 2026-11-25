@@ -40,11 +40,22 @@ Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
-</p>Web Technologies
+</p>
+
+Web Technologies
+
+**Engineering & Development Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>Engineering & Development Tools
+  <img src="https://skillicons.dev/icons?i=arduino,vscode,git,github" />
+</p>
+
+**VLSI & EDA Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Cadence-EDA%20Tools-EA1D25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Siemens-EDA%20Tools-009B77?style=for-the-badge" />
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,vscode,git,github" />
